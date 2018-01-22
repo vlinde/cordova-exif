@@ -1,6 +1,6 @@
 {
 	"name": "cordova-exif",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "The simplest way to get EXIF data of images at Cordova/Phonegap platform",
 	"cordova": {
 		"id": "cordova-plugin-exif",
