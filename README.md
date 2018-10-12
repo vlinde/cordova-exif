@@ -6,7 +6,8 @@ This plugin, is the simplest way to get exif data of images at Cordova platform 
 
 ### Installing
 
-	cordova plugin add https://github.com/domax/cordova-exif.git --save
+
+	cordova plugin add https://github.com/vlinde/cordova-exif.git --save
 
 ### Usage
 
